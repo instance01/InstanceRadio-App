@@ -1,0 +1,17 @@
+.gradle
+.idea
+build/
+app/build/
+gradle/
+captures/
+bin/
+gen/
+proguard/
+local.properties
+*.log
+*.pro
+*.iml
+*.class
+Config.java
+gradlew
+gradlew.bat

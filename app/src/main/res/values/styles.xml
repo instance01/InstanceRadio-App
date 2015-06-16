@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar"></style>
+
+    <style name="listview_item">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+</resources>
